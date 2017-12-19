@@ -117,8 +117,12 @@ body {
     width: 150px;
 }
 
-.profile-lg {
-    padding-top:35px;
+.profile-lg img {
+    height: 150px;
+    width: 150px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    margin-left: 5%;
 }
 
 /* Clear floats after the columns */
