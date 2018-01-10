@@ -1,0 +1,19 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.featured-albums img {
+    height: 150px;
+    width: 150px;
+}
+
+.featured-albums {
+    text-align: center;
+}
+
+.column {
+    width: 16.6%;
+    float: left;
+    padding-top: 15px;
+}
